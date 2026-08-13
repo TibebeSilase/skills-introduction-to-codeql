@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations TibebeSilase! 🎉
+# 🎉 Congratulations TibebeSilase Gezahign! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
